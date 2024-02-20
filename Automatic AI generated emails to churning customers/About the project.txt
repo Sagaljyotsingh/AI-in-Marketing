@@ -1,0 +1,2 @@
+This project is about creating a python interface that predicts churn rate of new customers based on learning from previous data. If the customer is predicted as churn, an automatic AI generated email is sent to their email address with an intent to stop them from leaving. 
+The main python file is not uploaded to public access on github because of security reasons.
